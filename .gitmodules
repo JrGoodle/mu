@@ -1,0 +1,3 @@
+[submodule "ash"]
+	path = ash
+	url = git@github.com:JrGoodle/ash.git
